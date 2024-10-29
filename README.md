@@ -1,1 +1,2 @@
 # Supervised_fine_tunning
+This notebook, "Supervised Fine-Tuning," guides the user through the process of fine-tuning a pre-trained language model on a custom dataset. It covers essential stages, including data loading, model initialization, and the training loop, designed to enhance the model’s performance on specific tasks through supervised learning. With included evaluation metrics and visualizations, this notebook provides a comprehensive walkthrough for those looking to specialize a model for targeted applications.
